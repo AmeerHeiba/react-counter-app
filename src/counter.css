@@ -1,0 +1,23 @@
+.counter-container {
+  background-color: rgba(
+    135,
+    206,
+    235,
+    0.5
+  ); /* Sky blue color with transparency */
+  backdrop-filter: blur(10px); /* Glassy effect */
+  padding: 20px;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Soft shadow for depth */
+  text-align: center;
+  max-width: 200px;
+  margin: auto;
+  margin-top: 50px;
+}
+
+.counter-button {
+  padding: 10px 20px;
+  font-size: 16px;
+  margin: 5px;
+  cursor: pointer;
+}
